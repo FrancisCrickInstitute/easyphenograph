@@ -1,0 +1,19 @@
+Package: easyphenograph
+Type: Package
+Title: Drop-in Replacement for Rphenograph 
+Version: 0.1.0
+Authors@R: c(
+    person(
+      "James", "Campbell",
+      email = "james.campbell@crick.ac.uk",
+      role = c("aut", "cre")
+    )
+  )
+Description: Drop-in replacement for cytofkit2::Rphenograph()
+  Built using Claude Science with the gaol of re-implementing
+  the algrogithm originally designed by Jacob Levin at the 
+  Dana Pe'er Lab. dpeerlab.github.io/dpeerlab-website/phenograph.html)
+License: MIT
+Encoding: UTF-8
+LazyData: true
+Config/roxygen2/version: 8.1.0
